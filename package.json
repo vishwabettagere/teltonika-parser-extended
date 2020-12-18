@@ -1,0 +1,15 @@
+{
+  "name": "teltonika-parser-extended",
+  "version": "1.0.1",
+  "description": "this lib is improved over teltonika-parser and it supports codec7, codec8 and codec8 extended protocols",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishwanath",
+  "email": "vishwacshetty99@gmail.com",
+  "license": "ISC"
+}
