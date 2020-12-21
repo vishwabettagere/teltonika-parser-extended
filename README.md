@@ -1,7 +1,7 @@
-# README #
+# Teltonika Parser Extended #
 
-Parsing teltonika binary data from device FMB0XX.
-Right now supported Codec8, Codec8 extended and Codec7 format.
+Parsing teltonika binary data from device FMB0XX. This project is forked from teltonika-parser where it lacks the support for codec-8 extended protocol
+Right now this project supports **Codec8, Codec8 extended and Codec7 format**.
 
 ### Installation ###
 
@@ -46,3 +46,5 @@ Run console command
      console.log("Server started");
  });
  `
+
+ *For more insight into the teltonika payload from FMB00X, check with teltonika official wiki page*
