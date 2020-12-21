@@ -11,8 +11,8 @@ Run console command
 
 
 ### Usage example ###
-
-`const net = require('net');
+```
+ const net = require('net');
  const Parser = require('teltonika-parser-extended');
  const binutils = require('binutils64');
  
@@ -45,6 +45,6 @@ Run console command
  server.listen(5000, () => {
      console.log("Server started");
  });
- `
+ ```
 
  *For more insight into the teltonika payload from FMB00X, check with teltonika official wiki page*
